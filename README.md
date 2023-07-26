@@ -1,12 +1,5 @@
 ### Hi there, I'm Essa 👋
 
-Hey there, fellow digital voyagers! I'm the mastermind behind the pixels, the code wrangler extraordinaire—a front-end engineer who takes React.js to exhilarating new heights. 
-Armed with an insatiable appetite for knowledge and an unyielding passion for building things that dazzle the interwebs, I'm on a perpetual quest to harness the ever-evolving power of technology. 
-With each line of code, I weave magic that turns mere ideas into captivating digital experiences. So, buckle up and get ready for a wild ride through the ever-expanding frontiers of the web, 
-because I'm here to push boundaries, break molds, and leave no pixel unturned!
-
-Cringe...
-
 <!--
 **essarebano/essarebano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
